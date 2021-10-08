@@ -1,7 +1,7 @@
 {
-      "name": "╚»𝗧-𝗚-𝗡«╝ Robot",
+      "name": "KING PRINCE",
       "description": "Telegram group management bot.",
-      "logo": "https://telegra.ph/file/19798419a95cd778001c9.jpg",
+      "logo": "https://telegra.ph/file/9c71bd26b7772df92684a.jpg",
       "keywords": [
          "telegram",
          "anime",
@@ -9,7 +9,7 @@
          "manager",
          "TGN"
       ],   
-   "repository": "https://github.com/Itsunknown-12/TGN-Robot.git",
+   "repository": "https://github.com/princepatil96k/TGN-Robot.git",
    "addons": [
       {
          "options": {
